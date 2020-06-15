@@ -41,3 +41,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+#graphic { 
+ background-image: url(Monaco.jpg); 
+ background-position: 0 -50px; 
+ width: 200px; 
+ height: 100px;
+}
