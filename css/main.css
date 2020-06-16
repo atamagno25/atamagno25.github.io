@@ -48,5 +48,9 @@ ul.posts li {
  width: 100px; 
  height: 50px;
 }
-
-
+.content{
+    background: white;
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+}
