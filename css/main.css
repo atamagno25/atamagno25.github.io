@@ -2,8 +2,8 @@ body {
     background-image:url("/images/Monaco.JPG");
     background-size:cover;
     background-attachment:fixed;
-    /*margin: 60px auto;
-    width: 70%;*/
+    margin: 60px auto;
+    width: 70%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
