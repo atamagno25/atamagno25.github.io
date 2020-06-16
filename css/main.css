@@ -1,5 +1,4 @@
 body {
-   
     margin: 60px auto;
     width: 70%;
 }
@@ -9,9 +8,6 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-
-
-    
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -45,7 +41,5 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-
 
 
