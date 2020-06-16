@@ -1,5 +1,5 @@
 body {
-    background-image:url("/images/Monaco.JPG");
+    background-image:url("images/Monaco.JPG");
     background-size:cover;
     background-attachment:fixed;
     margin: 60px auto;
