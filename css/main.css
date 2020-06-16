@@ -1,7 +1,5 @@
 body {
-    background-image:url("images/Monaco.JPG");
-    background-size:cover;
-    background-attachment:fixed;
+    
     margin: 60px auto;
     width: 70%;
 }
@@ -53,10 +51,4 @@ ul.posts li {
 }
 
 
-.content{
-    background: white;
-    width: 50%;
-    padding: 40px;
-    margin: 100px auto;
-    font-family: calibri;
-}
+
